@@ -7,3 +7,9 @@ Stock simulation:
 
 Final profit and loss distribution:
 ![PnL](https://user-images.githubusercontent.com/35583877/142722852-c17e05af-9fbe-4f6d-ab55-91a32532b70e.png)
+
+
+PnL statistics
+                       
+Number Of Trades   Mean             Standard Deviation                    
+21                0.002654            0.428538
