@@ -10,6 +10,7 @@ Final profit and loss distribution:
 
 
 PnL statistics:
-                       
+<pre>           
 Number Of Trades                            Mean                                   Standard Deviation                    
 21                                         0.002654                                      0.428538
+</pre>
