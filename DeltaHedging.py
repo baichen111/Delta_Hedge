@@ -1,3 +1,8 @@
+# -*- coding = utf-8 -*-
+# @time:01/20/19 6:59 PM
+# Author:Bai Chen
+# @File:DeltaHedging.py
+# @Software:PyCharm
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
